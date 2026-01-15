@@ -33,15 +33,6 @@ Estudiante del **Ciclo Superior de Desarrollo de Aplicaciones Web (DAW)** con un
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
-### 🌟 Fortalezas
-- ✅ **Trabajo en equipo**
-- ✅ **Responsabilidad**
-- ✅ **Don de gentes**
-- ✅ **Resolutiva**
-- ✅ **Creatividad**
-- ✅ **Adaptabilidad**
-
-
 ### 🎯 Tipo de Puesto
 - 📍 **Modalidad:** Remoto / Híbrido
 - ⏰ **Jornada:** Completa / Media jornada
