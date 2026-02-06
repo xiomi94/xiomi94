@@ -175,6 +175,27 @@ Blood4Life es una plataforma que revoluciona la gestión de donaciones de sangre
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git & GitHub
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) Postman (testing APIs)
 
+
+### 🎮 Proyecto Helldivers – Web Temática sobre el Universo Helldivers
+
+**Aplicación web desarrollada con React**, centrada en el universo del videojuego *Helldivers*, creada como proyecto personal para dar el salto de JavaScript puro a un framework moderno.
+
+#### 🎯 Descripción del Proyecto
+
+Proyecto Helldivers nace como una evolución natural tras mi primer proyecto web realizado con JavaScript vanilla, donde desarrollé una tienda de maquillaje. Para este segundo proyecto decidí trabajar con **React** y basarlo en una temática que me motiva especialmente: el videojuego *Helldivers*.
+
+La aplicación presenta una página informativa y visual sobre el juego, enfocada en practicar la creación de componentes, la organización del proyecto y el uso de estados y props, consolidando así los fundamentos del desarrollo frontend moderno.
+
+#### 🛠️ Stack Tecnológico
+
+**Frontend:**
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Herramientas:**
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
 ### 📬 Contáctame
 
 **📧 Email:** [xiomarajimvel94@gmail.com](mailto:tu-email@ejemplo.com)  
