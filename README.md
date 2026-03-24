@@ -8,6 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiomi94)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xiomarajimvel94@gmail.com)
+[![Currículum](https://img.shields.io/badge/Descargar-CV-6A0DAD?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./public/curriculum-xjv.pdf)
 
 ---
 
