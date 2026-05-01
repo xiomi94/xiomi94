@@ -102,19 +102,21 @@ A medida que avanzaba en mi formación, descubrí que también me interesa el **
 | **Java** | Intermedio |
 | **Spring Boot** | Intermedio |
 | **Node.js** | Básico |
+| **GraphQL** | Básico |
 
 #### 🗄️ Bases de Datos
 
 | Tecnología | Nivel |
 |------------|-------|
 | **MySQL** | Intermedio |
+| **PostgreSQL** | Intermedio |
 
 #### 🔧 DevOps y Herramientas
 
 | Tecnología | Nivel |
 |------------|-------|
 | **Git/GitHub** | Intermedio |
-| **Docker** | Básico |
+| **Docker** | Intermedio |
 | **Postman** | Intermedio |
 
 ---
